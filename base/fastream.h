@@ -3,7 +3,7 @@
 #ifdef _WIN32
 #pragma warning (disable:4624)
 #endif
-
+//asdasfasdfafa
 #include "fast.h"
 #include "fastring.h"
 #include <assert.h>

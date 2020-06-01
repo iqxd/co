@@ -6,6 +6,9 @@
 
 namespace fast {
 
+
+
+// sjkadashdasjdflasdjlasndl
 static uint16 itoh_table[256];
 static uint32 itoa_table[10000];
 
